@@ -1,1 +1,4 @@
 ideas.json
+.playground/
+.vercel
+.env*.local

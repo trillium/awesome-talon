@@ -68,12 +68,12 @@ Talon is a hands-free input system that enables you to write code, play games, a
 
 *Tools for editing code by voice, including structural editing and navigation.*
 
-- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - A spoken language for structural code editing, enabling voice coding at speeds faster than keyboard. Decorates every token on screen for rapid semantic manipulation.
+- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - A spoken language for structural code editing, enabling voice coding at speeds faster than keyboard. Decorates every token on screen for rapid semantic manipulation. *(Not Talon-specific)*
 - [Cursorless Website](https://www.cursorless.org/) - Official Cursorless website with docs and tutorials.
 - [cursorless-dev/cursorless-talon](https://github.com/cursorless-dev/cursorless-talon) - The Talon-side plugin for Cursorless.
-- [cursorless-dev/command-server](https://github.com/cursorless-dev/command-server) - Secure VS Code communication channel designed for voice coding.
-- [cursorless-dev/vscode-parse-tree](https://github.com/cursorless-dev/vscode-parse-tree) - Syntax trees for VS Code using tree-sitter, used by Cursorless.
-- [hands-free-vim/cursorless.nvim](https://github.com/hands-free-vim/cursorless.nvim) - Neovim plugin to support Cursorless.
+- [cursorless-dev/command-server](https://github.com/cursorless-dev/command-server) - Secure VS Code communication channel designed for voice coding. *(Not Talon-specific)*
+- [cursorless-dev/vscode-parse-tree](https://github.com/cursorless-dev/vscode-parse-tree) - Syntax trees for VS Code using tree-sitter, used by Cursorless. *(Not Talon-specific)*
+- [hands-free-vim/cursorless.nvim](https://github.com/hands-free-vim/cursorless.nvim) - Neovim plugin to support Cursorless. *(Not Talon-specific)*
 - [mirober/mathfly-talon](https://github.com/mirober/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook.
 - [FireChickenProductivity/TalonVoiceCodingSupplement](https://github.com/FireChickenProductivity/TalonVoiceCodingSupplement) - Programming supplemental configuration for ideas unsuitable for community.
 
@@ -142,9 +142,9 @@ Talon is a hands-free input system that enables you to write code, play games, a
 
 - [Conformer (W2L)](https://talon.wiki/Resource%20Hub/Speech%20Engines/Conformer/) - Talon's built-in speech engine. Excellent accuracy and speed for both commands and dictation. Free, installed via Talon tray icon.
 - [W2L Gen2](https://talon.wiki/Resource%20Hub/Speech%20Engines/W2L/) - Earlier Talon model with adequate command recognition but weaker dictation. Free.
-- [Dragon Professional](https://www.nuance.com/dragon/business-solutions/dragon-professional-individual.html) - Commercial speech engine with strong accuracy. Windows only, $300-$500.
+- [Dragon Professional](https://www.nuance.com/dragon/business-solutions/dragon-professional-individual.html) - Commercial speech engine with strong accuracy. Windows only, $300-$500. *(Not Talon-specific)*
 - [Webspeech](https://talon.wiki/Resource%20Hub/Speech%20Engines/Webspeech/) - Browser-based engine with excellent accuracy but added latency. Requires internet. Supports multiple languages.
-- [Vosk](https://alphacephei.com/vosk/) - Offline open-source speech recognition. Supports 20+ languages. Dictation-only, needs a command engine.
+- [Vosk](https://alphacephei.com/vosk/) - Offline open-source speech recognition. Supports 20+ languages. Dictation-only, needs a command engine. *(Not Talon-specific)*
 - [fmcurti/finetunian](https://github.com/fmcurti/finetunian) - Finetuning Whisper for Talon Voice commands.
 
 ## Accessibility
@@ -161,7 +161,7 @@ Talon is a hands-free input system that enables you to write code, play games, a
 *Use AI and large language models with Talon voice commands.*
 
 - [C-Loftus/talon-ai-tools](https://github.com/C-Loftus/talon-ai-tools) - Query LLMs and AI tools with voice commands.
-- [voqal/voqal](https://github.com/voqal/voqal) - Voice native AI agent for developers.
+- [voqal/voqal](https://github.com/voqal/voqal) - Voice native AI agent for developers. *(Not Talon-specific)*
 - [Mark-Phillipson/QuickPrompts](https://github.com/Mark-Phillipson/QuickPrompts) - Helper for talon-ai-tools to store and browse prompts and apply to current selection.
 
 ## Noise Recognition

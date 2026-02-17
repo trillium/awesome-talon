@@ -1,0 +1,6 @@
+.next/
+out/
+node_modules/
+data/README.md
+.vercel
+.env*.local

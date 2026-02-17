@@ -1,0 +1,28 @@
+{
+	"name": "awesome-talon-website",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"prebuild": "cp -f ../README.md data/README.md 2>/dev/null || true && cp -f ../.playground/repos_full.json data/repos_full.json 2>/dev/null || true",
+		"build": "next build",
+		"start": "next start",
+		"check": "biome check .",
+		"format": "biome format --write ."
+	},
+	"dependencies": {
+		"next": "^15.1.0",
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0",
+		"react-icons": "^5.5.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.0",
+		"@tailwindcss/postcss": "^4.0.0",
+		"@types/node": "^22.0.0",
+		"@types/react": "^19.0.0",
+		"@types/react-dom": "^19.0.0",
+		"tailwindcss": "^4.0.0",
+		"typescript": "^5.7.0"
+	}
+}
