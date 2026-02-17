@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Talon](https://talonvoice.com/) resources, command sets, plugins, and tools for voice-controlled computing.
 
-[Talon](https://talonvoice.com/) is a hands-free input system that enables you to write code, play games, and control your computer using voice, eye tracking, and noise recognition. Created by [Ryan Hileman](https://github.com/lunixbochs), Talon is available on macOS, Linux, and Windows. The alpha version is free; the beta version with newer features is available via [Patreon](https://www.patreon.com/join/lunixbochs).
+Talon is a hands-free input system that enables you to write code, play games, and control your computer using voice, eye tracking, and noise recognition. Created by [Ryan Hileman](https://github.com/lunixbochs), Talon is available on macOS, Linux, and Windows. The alpha version is free; the beta version with newer features is available via Patreon.
 
 ## Contents
 
@@ -31,16 +31,15 @@
 - [Podcasts](#podcasts)
 - [Blog Posts and Articles](#blog-posts-and-articles)
 - [Academic Research](#academic-research)
-- [Contributing](#contributing)
 
 ---
 
 ## Official Resources
 
-- [Talon Voice Website](https://talonvoice.com/) - Official Talon homepage with downloads and documentation.
+- [Talon Downloads](https://talonvoice.com/dl/) - Official downloads page for macOS, Linux, and Windows.
 - [Talon Documentation](https://talonvoice.com/docs/) - Official Talon 0.4 docs.
 - [Talon Slack](https://talonvoice.com/chat) - Official Talon community Slack, the best place to get help.
-- [Talon Patreon](https://www.patreon.com/join/lunixbochs) - Support Talon development and get access to the beta version with newer features.
+- [Talon Patreon](https://www.patreon.com/join/lunixbochs) - Support development and get access to the beta version with newer features.
 - [Talon GitHub](https://github.com/talonvoice) - Official Talon repositories.
 - [Talon Changelog](https://talonvoice.com/dl/latest/changelog.html) - Release notes and changelog.
 
@@ -48,7 +47,6 @@
 
 - [Talon Community Wiki](https://talon.wiki/) - Community-maintained wiki with comprehensive documentation.
 - [Talon Community Wiki (GitHub)](https://github.com/TalonCommunity/Wiki) - Source for the community wiki.
-- [Talon Screenshare Sessions](https://www.youtube.com/@taboreroys) - Tara's YouTube channel with demos from past Talon screenshare sessions.
 - [KnowBrainer Forums - Talon Thread](https://forums.knowbrainer.com/forum/third-party-command-utilities-vocola-unimacro-voicepower-python/404-wow-i-m-uninstalling-dragon-no-longer-need-it-as-i-am-100-happy-with-talon-voice) - Forum discussions about Talon Voice.
 
 ## Command Sets
@@ -142,10 +140,10 @@
 
 *Speech recognition engines compatible with Talon.*
 
-- **Conformer (W2L)** - Talon's built-in speech engine. Excellent accuracy and speed for both commands and dictation. Free, installed via Talon tray icon.
-- **W2L Gen2** - Earlier Talon model with adequate command recognition but weaker dictation. Free.
+- [Conformer (W2L)](https://talon.wiki/Resource%20Hub/Speech%20Engines/Conformer/) - Talon's built-in speech engine. Excellent accuracy and speed for both commands and dictation. Free, installed via Talon tray icon.
+- [W2L Gen2](https://talon.wiki/Resource%20Hub/Speech%20Engines/W2L/) - Earlier Talon model with adequate command recognition but weaker dictation. Free.
 - [Dragon Professional](https://www.nuance.com/dragon/business-solutions/dragon-professional-individual.html) - Commercial speech engine with strong accuracy. Windows only, $300-$500.
-- **Webspeech** - Browser-based engine with excellent accuracy but added latency. Requires internet. Supports multiple languages.
+- [Webspeech](https://talon.wiki/Resource%20Hub/Speech%20Engines/Webspeech/) - Browser-based engine with excellent accuracy but added latency. Requires internet. Supports multiple languages.
 - [Vosk](https://alphacephei.com/vosk/) - Offline open-source speech recognition. Supports 20+ languages. Dictation-only, needs a command engine.
 - [fmcurti/finetunian](https://github.com/fmcurti/finetunian) - Finetuning Whisper for Talon Voice commands.
 
@@ -395,9 +393,3 @@
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 If you know of a Talon resource, command set, or tool that isn't listed here, please open a pull request or an issue.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
