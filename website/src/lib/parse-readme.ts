@@ -11,6 +11,12 @@ const SECTION_DESC_RE = /^\*(.+)\*$/;
 const SKIP_SECTIONS = new Set(["Contents", "Contributing"]);
 
 const NOT_TALON_RE = /\s*\*\(Not Talon-specific\)\*\s*$/;
+const YEAR_RE = /\b(20\d{2})\b/;
+
+function extractYear(title: string): number | undefined {
+	const match = title.match(YEAR_RE);
+	return match ? Number.parseInt(match[1], 10) : undefined;
+}
 
 function parseItem(line: string): AwesomeItem | null {
 	const match = line.match(ITEM_RE);
@@ -18,12 +24,14 @@ function parseItem(line: string): AwesomeItem | null {
 	const [, title, url, rawDesc] = match;
 	const notTalonSpecific = NOT_TALON_RE.test(rawDesc);
 	const description = rawDesc.replace(NOT_TALON_RE, "").trim();
+	const year = extractYear(title);
 	return {
 		title,
 		url,
 		description,
 		githubSlug: extractGitHubSlug(url),
 		...(notTalonSpecific && { notTalonSpecific: true }),
+		...(year && { year }),
 	};
 }
 

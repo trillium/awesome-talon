@@ -2,6 +2,7 @@ import type { AwesomeItem } from "@/lib/types";
 import { RESOURCE_TYPE_LABELS, type ResourceType, getResourceType, timeAgo } from "@/lib/utils";
 import {
 	LuBookOpen,
+	LuCalendar,
 	LuClock,
 	LuExternalLink,
 	LuGithub,
@@ -65,6 +66,15 @@ export function ItemCard({ item, stars, pushedAt }: ItemCardProps) {
 					<p className="mt-1 text-sm leading-relaxed text-neutral-500">{item.description}</p>
 				</div>
 				<div className="flex shrink-0 items-center gap-2">
+					{item.year && (
+						<span
+							className="flex items-center gap-1 text-xs text-neutral-400 dark:text-neutral-600"
+							title={`Published ${item.year}`}
+						>
+							<LuCalendar className="h-3 w-3" />
+							{item.year}
+						</span>
+					)}
 					{pushedAt && (
 						<span
 							className="flex items-center gap-1 text-xs text-neutral-400 dark:text-neutral-600"

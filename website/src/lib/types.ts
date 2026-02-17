@@ -22,6 +22,8 @@ export interface AwesomeItem {
 	githubSlug?: string;
 	/** True if marked as not Talon-specific in the README */
 	notTalonSpecific?: boolean;
+	/** Year extracted from title (e.g. conference talks) */
+	year?: number;
 }
 
 export interface AwesomeSection {
