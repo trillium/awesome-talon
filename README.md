@@ -238,6 +238,8 @@ Talon is a hands-free input system that enables you to write code, play games, a
 - [BlueDrink9/homophoner-talon](https://github.com/BlueDrink9/homophoner-talon) - Resolve homophones on the fly for Talon Voice.
 - [MooersLab/talon-contractions](https://github.com/MooersLab/talon-contractions) - TalonScript file of expansions for common contractions in English.
 - [wolfmanstout/talon-vocabulary-editor](https://github.com/wolfmanstout/talon-vocabulary-editor) - Experimental features for managing your Talon vocabulary.
+- [AndreasArvidsson/clippy](https://github.com/AndreasArvidsson/clippy) - Clipboard manager with RPC, designed for Talon Voice integration.
+- [AndreasArvidsson/clippy-talon](https://github.com/AndreasArvidsson/clippy-talon) - Talon voice commands for the Clippy clipboard manager.
 
 ### Utilities
 
@@ -317,7 +319,7 @@ Talon is a hands-free input system that enables you to write code, play games, a
 - [Visual TalonScript Builder](https://visual-talonscript.pages.dev) - Web app for building custom Talon commands visually.
 - [Talon Cheatsheet](https://tararoys.github.io/small_cheatsheet) - Small web-based Talon cheatsheet.
 - [Talon-Knausj Cheatsheet](https://talon-knausj-cheatsheet.netlify.app/) - Web-based command reference for the community command set.
-- [Stolen Sugar](https://www.stolensugar.com/) - Explore alternative keywords for commands in the Talon community user file set.
+- [Stolen Sugar](https://github.com/stolen-sugar/stolen-sugar) - Explore alternative keywords for commands in the Talon community user file set.
 - [Guenther Schmitz's Wiki](https://wiki.gpunktschmitz.com/index.php/Talon) - Configurations, troubleshooting, and solutions for Talon.
 - [MooersLab/talon-voice-quizzes](https://github.com/MooersLab/talon-voice-quizzes) - Quizzes to support recall of Talon Voice commands.
 - [MooersLab/talon-voice-quiz.el](https://github.com/MooersLab/talon-voice-quiz.el) - Talon Voice quiz in Emacs Lisp.
@@ -341,6 +343,7 @@ Talon is a hands-free input system that enables you to write code, play games, a
 - [Perl Out Loud - Emily Shea (The Perl Conference 2019)](https://tpcip.sched.com/event/P05h/perl-out-loud) - Challenges of voice dictation including homophones and designing custom voice commands.
 - [Cursorless: A Spoken Language for Editing Code - Pokey Rule (Strange Loop 2023)](https://www.thestrangeloop.com/2023/cursorless-a-spoken-language-for-editing-code.html) - Designing a spoken language for code editing using tree-sitter parsing.
 - [Hands-Free Computer Use with Talon Voice - Trillium Smith (CFE 2025)](https://cfe.dev/sessions/vc2025-hands-free-computer-use/) - Demonstrating entirely hands-free computer control with Talon.
+- [Cursorless: Keyboards and Mice Are Sooo Last Year - Pokey Rule (BangBangCon 2021)](https://www.youtube.com/watch?v=Py9xjeIhxOg) - 10-minute talk demonstrating Cursorless at the joy-of-computing conference.
 - [Enhancing Productivity with Voice Computing - Blaine Mooers (EmacsConf 2023)](https://emacsconf.org/2023/talks/voice/) - Speech-to-text, speech-to-commands, and speech-to-code.
 
 ### Video Demos
@@ -352,11 +355,20 @@ Talon is a hands-free input system that enables you to write code, play games, a
 - [Talon Eye Tracking + Optikey Mouse](https://www.youtube.com/watch?v=PQkJE-rtn-g) - Cursor control with eye and head tracking.
 - [Talon Eye Tracking Explained](https://www.youtube.com/watch?v=_jfeHqUb3_0) - Overview of eye tracking functionality for newcomers.
 - [Cursorless Demo](https://www.youtube.com/watch?v=h6lM68jU2iI) - Short demo of what Cursorless voice coding looks like.
+- [Cursorless Tutorial Part I - Pokey Rule](https://www.youtube.com/watch?v=5mAzHGM2M0k) - Official tutorial on how to use Cursorless for voice coding.
+- [Code With No Hands You Cowards! - Pokey Rule (Craft vs Cruft)](https://www.youtube.com/watch?v=KROR-WG60zE) - Interview and demo of Cursorless and voice coding.
+- [Emoji Searching with Talon - Emily Shea](https://youtu.be/RA0idiJkZOg) - Demo of searching and inserting emoji by voice.
+- [Mojolicious Perl App with Talon - Emily Shea](https://youtu.be/X6rsA0Svh2M) - Voice coding a Perl application with Talon.
 
 ## Podcasts
 
 - [Voice Coding with Emily Shea and Ryan Hileman - Google Cloud Platform Podcast](https://www.gcppodcast.com/post/episode-223-voice-coding-with-emily-shea-and-ryan-hileman/) - Talon's creator and Emily Shea discuss voice coding.
 - [Supper Club: Voice Coding with Pokey Rule - Syntax #481](https://syntax.fm/show/481/supper-club-voice-coding-with-pokey-rule) - Cursorless creator Pokey Rule talks about coding by voice.
+- [Coding Without Your Hands - Josh Comeau (Changelog #423)](https://changelog.com/podcast/423) - Josh Comeau on his hands-free coding workflow with Talon and eye tracking.
+- [Voice Coding is Really Good - Josh Comeau (Syntax #298)](https://syntax.fm/show/298/voice-coding-is-really-good-with-josh-comeau) - Josh Comeau discusses voice coding and accessibility with Talon.
+- [Vibes from Strange Loop - Pokey Rule (Changelog #559)](https://changelog.com/podcast/559) - Hallway-track conversation with Pokey Rule about Cursorless as a spoken language.
+- [Programming Without Hands - Andreas Arvidsson (IT Talks #104)](https://ittalks.libsyn.com/104-programming-without-hands-swe) - Voice-controlled programming and accessible work environments. In Swedish.
+- [Alternative Tools for Programming - Andreas Arvidsson (IT Talks #188)](https://ittalks.libsyn.com/188-alternative-tools-for-programming-with-andreas-arvidsson) - Voice commands, foot pedals, and alternative input methods. In Swedish.
 
 ## Blog Posts and Articles
 
@@ -379,6 +391,7 @@ Talon is a hands-free input system that enables you to write code, play games, a
 - [Speech-to-Code: Vibe Coding with Voice - Addy Osmani](https://addyo.substack.com/p/speech-to-code-vibe-coding-with-voice) - AI + voice as a new developer workflow.
 - [Programming by Voice May Be the Next Frontier in Software Development - IEEE Spectrum](https://spectrum.ieee.org/programming-by-voice-may-be-the-next-frontier-in-software-development) - IEEE article on the future of voice programming.
 - [Talon Voice, the Start of the Journey - Trillium Smith](https://trilliumsmith.com/blog/talon-voice-the-start-of-the-journey) - Personal journey into voice-controlled computing.
+- [Andreas Is Programming Without Using His Hands - Redpill Linpro](https://careers.redpill-linpro.com/posts/andreas-is-programming-without-using-his-hands) - Profile of Andreas Arvidsson adopting Talon after repetitive strain injury.
 - [Talon Voice and Extras Setup Notes - Jacob Egner](https://jacobegner.wordpress.com/2023/06/21/talon-voice-and-extras-setup-notes/) - Detailed setup documentation and configuration notes.
 
 ## Academic Research
