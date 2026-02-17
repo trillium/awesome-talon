@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Talon](https://talonvoice.com/) resources, command sets, plugins, and tools for voice-controlled computing.
 
-[Talon](https://talonvoice.com/) is a hands-free input system that enables you to write code, play games, and control your computer using voice, eye tracking, and noise recognition. Created by [Ryan Hileman](https://github.com/lunixbochs), Talon is freely available on macOS, Linux, and Windows.
+[Talon](https://talonvoice.com/) is a hands-free input system that enables you to write code, play games, and control your computer using voice, eye tracking, and noise recognition. Created by [Ryan Hileman](https://github.com/lunixbochs), Talon is available on macOS, Linux, and Windows. The alpha version is free; the beta version with newer features is available via [Patreon](https://www.patreon.com/join/lunixbochs).
 
 ## Contents
 
@@ -40,7 +40,7 @@
 - [Talon Voice Website](https://talonvoice.com/) - Official Talon homepage with downloads and documentation.
 - [Talon Documentation](https://talonvoice.com/docs/) - Official Talon 0.4 docs.
 - [Talon Slack](https://talonvoice.com/chat) - Official Talon community Slack, the best place to get help.
-- [Talon Patreon](https://www.patreon.com/join/lunixbochs) - Support Talon development and get beta access to the Conformer speech model.
+- [Talon Patreon](https://www.patreon.com/join/lunixbochs) - Support Talon development and get access to the beta version with newer features.
 - [Talon GitHub](https://github.com/talonvoice) - Official Talon repositories.
 - [Talon Changelog](https://talonvoice.com/dl/latest/changelog.html) - Release notes and changelog.
 
