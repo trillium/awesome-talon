@@ -57,7 +57,7 @@ export function parseReadme(readmePath?: string): AwesomeList {
 
 		// Description (blockquote)
 		if (trimmed.startsWith("> ") && !listDescription) {
-			listDescription = trimmed.replace(/^> /, "");
+			listDescription = trimmed.replace(/^> /, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
 			continue;
 		}
 

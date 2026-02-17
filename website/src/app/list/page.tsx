@@ -26,7 +26,11 @@ export default function ListPage() {
 		<div className="mx-auto max-w-7xl px-4 py-12 sm:px-6">
 			<div className="mb-10">
 				<h1 className="text-3xl font-bold text-neutral-900 dark:text-white">Curated List</h1>
-				<p className="mt-2 text-neutral-600 dark:text-neutral-400">{list.description}</p>
+				<p className="mt-2 text-neutral-600 dark:text-neutral-400">
+				A curated list of awesome{" "}
+				<a href="https://talonvoice.com/" className="text-teal-600 underline hover:text-teal-500 dark:text-teal-400 dark:hover:text-teal-300" target="_blank" rel="noopener noreferrer">Talon</a>
+				{" "}resources, command sets, plugins, and tools for voice-controlled computing.
+			</p>
 			</div>
 			<ListSearch sections={list.sections} repoMeta={metaMapObj} resourceDates={resourceDates} />
 		</div>

@@ -28,7 +28,9 @@ export default function HomePage() {
 						Awesome <span className="text-teal-600 dark:text-teal-400">Talon</span>
 					</h1>
 					<p className="mt-4 max-w-2xl text-lg leading-relaxed text-neutral-600 dark:text-neutral-400">
-						{list.description}
+						A curated list of awesome{" "}
+						<a href="https://talonvoice.com/" className="text-teal-600 underline hover:text-teal-500 dark:text-teal-400 dark:hover:text-teal-300" target="_blank" rel="noopener noreferrer">Talon</a>
+						{" "}resources, command sets, plugins, and tools for voice-controlled computing.
 					</p>
 					<div className="mt-8 flex gap-3">
 						<Link
