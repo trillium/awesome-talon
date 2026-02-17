@@ -1,6 +1,7 @@
 import { ListSearch } from "@/components/ListSearch";
 import { type RepoMeta, getRepoMetaMap } from "@/lib/cross-reference";
 import { loadRepos } from "@/lib/load-repos";
+import { loadResourceDates } from "@/lib/load-resource-dates";
 import { parseReadme } from "@/lib/parse-readme";
 import type { Metadata } from "next";
 
@@ -13,6 +14,7 @@ export default function ListPage() {
 	const list = parseReadme();
 	const repos = loadRepos();
 	const metaMap = getRepoMetaMap(repos);
+	const resourceDates = loadResourceDates();
 
 	// Convert Map to plain object for client component serialization
 	const metaMapObj: Record<string, RepoMeta> = {};
@@ -26,7 +28,7 @@ export default function ListPage() {
 				<h1 className="text-3xl font-bold text-neutral-900 dark:text-white">Curated List</h1>
 				<p className="mt-2 text-neutral-600 dark:text-neutral-400">{list.description}</p>
 			</div>
-			<ListSearch sections={list.sections} repoMeta={metaMapObj} />
+			<ListSearch sections={list.sections} repoMeta={metaMapObj} resourceDates={resourceDates} />
 		</div>
 	);
 }

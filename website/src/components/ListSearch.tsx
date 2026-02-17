@@ -10,9 +10,10 @@ import { TableOfContents } from "./TableOfContents";
 interface ListSearchProps {
 	sections: AwesomeSection[];
 	repoMeta: Record<string, RepoMeta>;
+	resourceDates: Record<string, string>;
 }
 
-export function ListSearch({ sections, repoMeta }: ListSearchProps) {
+export function ListSearch({ sections, repoMeta, resourceDates }: ListSearchProps) {
 	const [query, setQuery] = useState("");
 
 	const filtered = useMemo(() => {
@@ -93,6 +94,7 @@ export function ListSearch({ sections, repoMeta }: ListSearchProps) {
 											item={item}
 											stars={meta?.stars}
 											pushedAt={meta?.pushedAt}
+											publishedAt={resourceDates[item.url]}
 										/>
 									);
 								})}

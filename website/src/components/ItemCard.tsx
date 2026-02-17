@@ -1,5 +1,11 @@
 import type { AwesomeItem } from "@/lib/types";
-import { RESOURCE_TYPE_LABELS, type ResourceType, getResourceType, timeAgo } from "@/lib/utils";
+import {
+	RESOURCE_TYPE_LABELS,
+	type ResourceType,
+	formatDate,
+	getResourceType,
+	timeAgo,
+} from "@/lib/utils";
 import {
 	LuBookOpen,
 	LuCalendar,
@@ -27,9 +33,11 @@ interface ItemCardProps {
 	item: AwesomeItem;
 	stars?: number;
 	pushedAt?: string;
+	/** Publish date from resource_dates.json (YYYY-MM-DD) */
+	publishedAt?: string;
 }
 
-export function ItemCard({ item, stars, pushedAt }: ItemCardProps) {
+export function ItemCard({ item, stars, pushedAt, publishedAt }: ItemCardProps) {
 	const resourceType = getResourceType(item.url);
 	const ResourceIcon = RESOURCE_ICONS[resourceType];
 	const resourceLabel = RESOURCE_TYPE_LABELS[resourceType];
@@ -66,14 +74,24 @@ export function ItemCard({ item, stars, pushedAt }: ItemCardProps) {
 					<p className="mt-1 text-sm leading-relaxed text-neutral-500">{item.description}</p>
 				</div>
 				<div className="flex shrink-0 items-center gap-2">
-					{item.year && (
+					{publishedAt ? (
 						<span
 							className="flex items-center gap-1 text-xs text-neutral-400 dark:text-neutral-600"
-							title={`Published ${item.year}`}
+							title={`Published ${publishedAt}`}
 						>
 							<LuCalendar className="h-3 w-3" />
-							{item.year}
+							{formatDate(publishedAt)}
 						</span>
+					) : (
+						item.year && (
+							<span
+								className="flex items-center gap-1 text-xs text-neutral-400 dark:text-neutral-600"
+								title={`Published ${item.year}`}
+							>
+								<LuCalendar className="h-3 w-3" />
+								{item.year}
+							</span>
+						)
 					)}
 					{pushedAt && (
 						<span
