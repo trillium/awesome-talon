@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "description": "Ideas for discovering and cataloging Talon Voice resources for awesome-talon",
+    "last_updated": "2026-02-17",
+    "iteration": 3
+  },
+  "research_strategies": [
+    {
+      "id": 1,
+      "idea": "Search GitHub for repos with .talon files using language:Talon filter",
+      "status": "done",
+      "notes": "Did this in initial pass, found ~100 repos"
+    },
+    {
+      "id": 2,
+      "idea": "Search GitHub topics: talonvoice, talon-voice, talon-scripts",
+      "status": "done",
+      "notes": "Did this in initial pass, found ~200 total repos across all searches"
+    },
+    {
+      "id": 3,
+      "idea": "Scrape the talon.wiki educational resources page for links",
+      "status": "done",
+      "notes": "Found YouTube channels, practice sites, cheatsheets, all added to README"
+    },
+    {
+      "id": 4,
+      "idea": "Search Hacker News for Talon Voice discussions and linked resources",
+      "status": "done",
+      "notes": "Found Numen, Caster, Kaldi Active Grammar, academic papers, Medium articles, Michael Tsai blog post, Addy Osmani article. All added."
+    },
+    {
+      "id": 5,
+      "idea": "Search Reddit r/talon, r/accessibility, r/vim for Talon discussions",
+      "status": "done",
+      "notes": "Searched but found nothing unique beyond what we already have. Hardware recommendations verified via Talon wiki hardware page."
+    },
+    {
+      "id": 6,
+      "idea": "Look at other awesome-* repos for structural inspiration",
+      "status": "done",
+      "notes": "Studied awesome-neovim and sindresorhus/awesome guidelines. Applied: CC0 license, better categorization with subcategories, table of contents, contribution guidelines."
+    },
+    {
+      "id": 7,
+      "idea": "Check VS Code Marketplace for Talon-related extensions",
+      "status": "done",
+      "notes": "Found pokey.cursorless and pokey.talon marketplace extensions. Added to README."
+    },
+    {
+      "id": 8,
+      "idea": "Search for Talon-related npm packages, PyPI packages",
+      "status": "done",
+      "notes": "Found gaze-ocr, screen-ocr, kaldi-active-grammar, vosk on PyPI. Added screen-ocr to README. Others already covered."
+    },
+    {
+      "id": 9,
+      "idea": "Look at the talonhub org on GitHub for all repos",
+      "status": "done",
+      "notes": "Found talonhub/community-beta. Added to README."
+    },
+    {
+      "id": 10,
+      "idea": "Search for Dragon NaturallySpeaking to Talon migration guides",
+      "status": "todo",
+      "notes": "The KnowBrainer forum thread found suggests there's migration content out there"
+    },
+    {
+      "id": 11,
+      "idea": "Search YouTube for recent Talon demos and tutorials (2024-2026)",
+      "status": "todo",
+      "notes": "Newer content may show off latest features like parrot, deck()"
+    },
+    {
+      "id": 12,
+      "idea": "Look at GitHub stars/following patterns - who stars talon repos? What else do they star?",
+      "status": "todo",
+      "notes": "Cross-pollination discovery. Could use gh api to find stargazers of cursorless/community and check their repos."
+    },
+    {
+      "id": 13,
+      "idea": "Search for Talon on Twitter/X for shared resources and demos",
+      "status": "todo",
+      "notes": "lunixbochs posts updates there. Already found conformer demo tweet."
+    },
+    {
+      "id": 14,
+      "idea": "Check alternative voice control tools that integrate with Talon",
+      "status": "done",
+      "notes": "Added Speech Engines section and Related Projects section."
+    },
+    {
+      "id": 15,
+      "idea": "Look at Talon changelog for feature names, then search for repos using those features",
+      "status": "done",
+      "notes": "Added Noise Recognition section with pandemonium_talon, parrot-tester, Viper"
+    },
+    {
+      "id": 16,
+      "idea": "Search for eye tracker hardware reviews/guides relevant to Talon users",
+      "status": "done",
+      "notes": "Added Tobii 5 and 4C setup guides to Hardware section, plus link to community hardware page."
+    },
+    {
+      "id": 17,
+      "idea": "Look at what other awesome repos do for quality signals",
+      "status": "done",
+      "notes": "Decided to keep clean format without badges."
+    },
+    {
+      "id": 18,
+      "idea": "Search for Talon on dev.to, Medium, and other blogging platforms",
+      "status": "done",
+      "notes": "No dev.to articles found. Medium article by Mikael Ainalem added. Addy Osmani Substack added."
+    },
+    {
+      "id": 19,
+      "idea": "Check if there are any Talon-related browser bookmarklets or userscripts",
+      "status": "skip",
+      "notes": "Low priority - Rango covers browser integration well. No results found."
+    },
+    {
+      "id": 20,
+      "idea": "Search for academic papers about voice-driven development and Talon",
+      "status": "done",
+      "notes": "Found 2 papers: ACM and DIVA. Added Academic Research section."
+    },
+    {
+      "id": 21,
+      "idea": "Investigate fidgetingbits GitHub account",
+      "status": "done",
+      "notes": "Found talon-shotbox, talon-python-command-server. Added shotbox."
+    },
+    {
+      "id": 22,
+      "idea": "Look at FireChickenProductivity's full repo list",
+      "status": "done",
+      "notes": "Found 37 repos total! Added PowerFace, Fire-Chicken-Library, TalonKeyRebindings, BasicActionRecordAnalyzer, EquatIO-Commands, Viper."
+    },
+    {
+      "id": 23,
+      "idea": "Check for Talon-related VS Code themes/icon packs",
+      "status": "skip",
+      "notes": "No specific themes found. Cursorless hat colors are configurable in settings."
+    },
+    {
+      "id": 24,
+      "idea": "Search for Talon Conformer model info",
+      "status": "done",
+      "notes": "Created Speech Engines section from talon.wiki speech engines page."
+    },
+    {
+      "id": 25,
+      "idea": "Add a section for 'Notable Personal Command Sets'",
+      "status": "done",
+      "notes": "Added jcaw/talon_config (11 stars), blakewatson/talon-scripts (9 stars), gimpf/talon-config (6 stars)."
+    },
+    {
+      "id": 26,
+      "idea": "Search for Talon-related Obsidian plugins beyond sblakey's",
+      "status": "todo",
+      "notes": "Obsidian is popular among voice coders"
+    },
+    {
+      "id": 27,
+      "idea": "Check dev.to for Talon articles",
+      "status": "done",
+      "notes": "No results found on dev.to."
+    },
+    {
+      "id": 28,
+      "idea": "Search for Talon-related conference talks beyond Deconstruct 2019",
+      "status": "done",
+      "notes": "Found Strange Loop 2023 (Pokey Rule), CFE 2025 (Trillium Smith), EmacsConf 2023 (Blaine Mooers), Perl Out Loud (Emily Shea). All added."
+    },
+    {
+      "id": 29,
+      "idea": "Check if cursorless has talks/presentations at conferences",
+      "status": "done",
+      "notes": "Found Strange Loop 2023 talk by Pokey Rule. Added."
+    },
+    {
+      "id": 30,
+      "idea": "Search GitHub Discussions in talonhub/community for frequently referenced tools",
+      "status": "todo",
+      "notes": "Community discussions may reference tools that aren't in any search index"
+    },
+    {
+      "id": 31,
+      "idea": "Look at rokubop/talon-hub-site for a potential community hub",
+      "status": "todo",
+      "notes": "May be a web portal for discovering Talon packages"
+    },
+    {
+      "id": 32,
+      "idea": "Search for Talon + Stream Deck integrations beyond jbarr21's",
+      "status": "todo",
+      "notes": "deck() is a built-in Talon feature now"
+    },
+    {
+      "id": 33,
+      "idea": "Search for microphone recommendations/reviews for Talon users",
+      "status": "done",
+      "notes": "Added link to Talon Community Hardware Guide which covers microphone recommendations."
+    },
+    {
+      "id": 34,
+      "idea": "Check if there's a Talon package manager or registry",
+      "status": "todo",
+      "notes": "rokubop/talon-pack suggests package management is emerging"
+    },
+    {
+      "id": 35,
+      "idea": "Search for Talon + tmux/screen integration",
+      "status": "todo",
+      "notes": "Terminal multiplexer control by voice"
+    },
+    {
+      "id": 36,
+      "idea": "Check cursorless-dev org repos for all projects",
+      "status": "done",
+      "notes": "Found 11 repos. Added command-server, vscode-parse-tree, cursorless.nvim, talon-rpc, talon-snippets, talon-command-client."
+    },
+    {
+      "id": 37,
+      "idea": "Check hands-free-vim org repos",
+      "status": "done",
+      "notes": "Found 6 repos. Added cursorless.nvim, command-server. neovim-talon and talon.nvim already listed."
+    },
+    {
+      "id": 38,
+      "idea": "Search for Talon-related Slack channel archives or pinned resources",
+      "status": "todo",
+      "notes": "The Slack community likely has pinned resources in channels that aren't indexed by search engines"
+    },
+    {
+      "id": 39,
+      "idea": "Check Awesome Accessibility lists for Talon references",
+      "status": "todo",
+      "notes": "awesome-a11y or similar lists may reference Talon"
+    },
+    {
+      "id": 40,
+      "idea": "Search for Talon + i3wm/sway window manager integration",
+      "status": "todo",
+      "notes": "Linux tiling WM users who voice code"
+    }
+  ],
+  "stats": {
+    "total_ideas": 40,
+    "done": 25,
+    "skipped": 2,
+    "todo": 13,
+    "readme_entries_approx": 170,
+    "sections": 30,
+    "iterations_completed": 3,
+    "new_in_iteration_3": [
+      "Notable Personal Configurations section",
+      "Hardware subsections (Eye Trackers, Peripherals)",
+      "4 new conference talks (Strange Loop, CFE, EmacsConf, Perl Out Loud)",
+      "~15 new entries from cursorless-dev, hands-free-vim, talonhub orgs",
+      "2 new blog posts (Trillium Smith, Jacob Egner)",
+      "screen-ocr PyPI package"
+    ]
+  }
+}
