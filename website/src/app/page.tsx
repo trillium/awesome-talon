@@ -29,10 +29,17 @@ export default function HomePage() {
 					</h1>
 					<p className="mt-4 max-w-2xl text-lg leading-relaxed text-neutral-600 dark:text-neutral-400">
 						A curated list of awesome{" "}
-						<a href="https://talonvoice.com/" className="text-teal-600 underline hover:text-teal-500 dark:text-teal-400 dark:hover:text-teal-300" target="_blank" rel="noopener noreferrer">Talon</a>
-						{" "}resources, command sets, plugins, and tools for voice-controlled computing.
+						<a
+							href="https://talonvoice.com/"
+							className="text-teal-600 underline hover:text-teal-500 dark:text-teal-400 dark:hover:text-teal-300"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							Talon
+						</a>{" "}
+						resources, command sets, plugins, and tools for voice-controlled computing.
 					</p>
-					<div className="mt-8 flex gap-3">
+					<div className="mt-8 flex flex-wrap gap-3">
 						<Link
 							href="/list"
 							className="rounded-lg bg-teal-600 px-5 py-2.5 text-sm font-medium text-white transition-colors hover:bg-teal-500"
@@ -44,6 +51,12 @@ export default function HomePage() {
 							className="rounded-lg border border-neutral-300 bg-white px-5 py-2.5 text-sm font-medium text-neutral-700 transition-colors hover:border-neutral-400 hover:text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-300 dark:hover:border-neutral-600 dark:hover:text-white"
 						>
 							Explore ecosystem
+						</Link>
+						<Link
+							href="/commands"
+							className="rounded-lg border border-neutral-300 bg-white px-5 py-2.5 text-sm font-medium text-neutral-700 transition-colors hover:border-neutral-400 hover:text-neutral-900 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-300 dark:hover:border-neutral-600 dark:hover:text-white"
+						>
+							Search commands
 						</Link>
 					</div>
 				</div>

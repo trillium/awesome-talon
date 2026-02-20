@@ -9,6 +9,7 @@ const NAV_LINKS = [
 	{ href: "/", label: "Home" },
 	{ href: "/list", label: "List" },
 	{ href: "/ecosystem", label: "Ecosystem" },
+	{ href: "/commands", label: "Commands" },
 ];
 
 export function SiteHeader() {

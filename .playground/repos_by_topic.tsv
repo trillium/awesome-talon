@@ -1,0 +1,92 @@
+adabru/eyeput	0	Eye tracking input method.
+adam-coster/adam-coster-talon	0	Talon Voice commands extending `knausj_talon`
+alexander-clarke/alex_talon	1	Personal scripts for talon
+AndreasArvidsson/andreas-talon	90	User scripts for Talon Voice
+AndreasArvidsson/andreas-talon-vscode	13	VSCode extension used by Talon Voice
+AndreasArvidsson/talon-deck	10	Interactive dashboard for Talon Voice
+AndrewDant/andrew_talon	0	My personal fork of https://github.com/talonhub/community
+AndrewDant/screen-spots	26	Save a set of screen locations to later click on or move to using talon voice
+Antman261/talon-matrix-mouse	3	Click anywhere by speaking three words
+auscompgeek/davo-talon	0	My custom Talon user files, existing alongside talonhub/community
+autosquash/talon-configs	1	Some configuration files to be used with Talon Voice.
+BlueDrink9/bluedrink9-talon	1	
+BlueDrink9/bspwm-talon	0	Talon voice command set for BSPWM window manager
+BlueDrink9/homophoner-talon	1	Resolve homophones on the fly for talon voice
+bluprince13/bluprince13_talon	0	
+bluprince13/bluprince13_talon_user	0	
+brollin/brollin_talon_public	3	My (public) Talon commands
+brollin/speak-the-spire-talon	3	Voice commands for the Speak the Spire mod
+brollin/talon_umbrella	2	Umbrella repo containing all of my Talon Voice code
+C-Loftus/colton_talon	5	 Supplementary scripts to Talon Community (Knausj)
+C-Loftus/sight-free-talon	21	Integrate Talon voice dictation commands with TTS, screen readers, braille, and more!
+C-Loftus/talon-ai-tools	85	Query LLMs and AI tools with voice commands
+C-Loftus/Watercolor	8	Color Linux a11y elements for mouse-free interaction!
+CodesAway/TAIPCodesAway	1	Talon Automated Installation Platform
+CodesAway/TalonVoiceCodesAway	0	Talon voice file set which extends community
+cursorless-dev/cursorless	1295	Don't let the cursor slow you down
+DarinM223/talon_mgba_http_controller	0	Control mGBA games with Talon Voice
+diabeatz96/Talon-Game-Scripts	1	Open repository of Talon scripts for games supporting accessibility
+FireChickenProductivity/BAR	3	The Basic Action Recorder can be used to record basic talon voice actions and output the corresponding talonscript code for them.
+FireChickenProductivity/FireChickenKnausjEssentials	1	Highly minimalistic version of the knausj talon configuration.
+FireChickenProductivity/GoogleSheetsTalonCommands	3	Provides talon voice commands for working with google sheets. These have only been tested on windows.
+FireChickenProductivity/MermaidDiagramsTalonVoice	1	Talon Voice customization for creating mermaid diagrams. 
+FireChickenProductivity/MouseControlChicken	2	Offers talon voice customization for controlling the mouse.
+FireChickenProductivity/RandomTalon	0	TalonVoice configuration for generating random characters.
+FireChickenProductivity/TalonHardSleep	0	The hard sleep mode for Talon Voice requires consecutively saying talon wake to wakeup talon. This is no longer maintained in favor of the community deep sleep.
+FireChickenProductivity/Talon-Voice-EquatIO-Commands	0	Talon voice commands for dictating math into EquatIO.
+FireChickenProductivity/Talon-Voice-Exam-Mode	0	When the exam mode is active, it prevents many of the community repository commands and actions that you would not want to run accidentally during an exam from running and instead displays an error message if you try to run them.
+FireChickenProductivity/Talon-Voice-multidimensional-clipboard	7	
+FireChickenProductivity/Talon-Voice-Unsupported-Editor-Programming	0	Provides commands for programming in many editors that either do not support programming or editors that you do not have commands for working with specifically.
+FireChickenProductivity/TerminalChicken	3	Talon voice extension for controlling terminal programs with cursorless.
+geobarry/eagle_talon	2	Talon voice commands to control mouse using a first-person navigation perspective, saying distances and directions
+gimpf/talon-config	6	A user configset for talon voice
+hotsoupisgood/talon-commands	0	
+Jailsonfs/community	1	🚀 Explore hands-on training labs for embedded development using Zephyr RTOS, featuring guided exercises, starter projects, and useful documentation.
+jbarr21/talon-user	1	Talon user files
+jcaw/talon_config	11	🎙️ Talon config for coding by voice. Work in progress, unstable, I will force-push. Not intended for general consumption.
+jcaw/talonscript-mode	8	🦅 Emacs major-mode for .talon files (from Talon Voice).
+kelocoder/talon-mode	0	Emacs major mode for editing Talon Voice scripts
+kelocoder/talon-mouse-pointer	0	Talon Voice module which supports relative mouse pointer movements
+lunixbochs/talon_wm	5	Window management in Talon
+Mark-Phillipson/Alphabet	1	Talon Alphabet with pictures.
+Mark-Phillipson/NaturalCommands	0	NaturalCommands is a Windows desktop application that enables users to control their computer and applications using natural language commands. It interprets spoken or typed instructions to automate tasks, launch programs, manipulate windows, and perform complex multi-step actions, enhancing productivity and accessibility through voice
+Mark-Phillipson/natural-language-commands	0	Control Visual Studio Code with natural language
+Mark-Phillipson/QuickPrompts	0	Helper for talon-ai-tools Store and browse your own prompts and apply to current selection.
+Mark-Phillipson/selectionssaver	1	Next level bookmarks including current selection and vertical scroll position
+Mark-Phillipson/snippetbrowser	1	Browse Talon Voice Snippets Available on Your System
+Mark-Phillipson/TalonCommandSearchExtension	0	VS Code extension for searching and browsing Talon voice commands with advanced filtering and JSON file storage
+Mark-Phillipson/talon_my_stuff	0	This is my stuff for the Talon customizations (may contain BUGS)
+Mark-Phillipson/VoiceLauncherBlazor	3	Blazor server side app with app launcher, snippets and Voice Admin for speech recognition with Talon Voice
+Metastruct/talon_gmod	4	Voice control for Garry's Mod
+mirober/mathfly-talon	9	Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
+mirober/MR-talon	15	My Talon scripts for voice coding and general computer control
+mirober/talon-pyvda	2	Talon scripts for manipulating virtual desktops on Windows 
+ohare93/zsa-keymapp-talon	0	Control your ZSA keyboard using the Keymapp API in Talon.
+orlekc/talon-games	0	Talon Games is a simple script library that makes playing games using talon easier.
+paul-schaaf/talon-filetree	21	A vscode extension for navigating and manipulating the file tree quickly by voice.
+phillco/talon-axkit	62	Talon macOS accessibility magic!
+phillco/talon-phil	1	Phil's public Talon configurations/actions (NOTE: more content coming soon)
+PiggiesGoSqueal/TW-Talon	1	Talon Voice allows controlling your PC with your voice. This project contains scripts I'll use for it.
+pokey/wax_talon	2	Record your Talon sessions
+Polyterative/Poly-Talon-Scripts	0	Voice Coding. My custom talon voice coding configs for Mac, Windows, and Linux. WIP. This is what I run daily
+qbit/mytalon	0	My talon customizations
+rinOfTheStars/rin-personal	0	Personal talon scripts.
+rntz/emacs-talon	1	Some emacs talon integration stuff
+rntz/indexed_clipboard	2	An indexed clipboard for talon.
+rntz/quick_macro	7	Quick macros for talon
+rntz/talon_emacs_draft	1	Using emacs as a draft window for talon.
+rntz/talon-keeper	0	Implementation of the 'keeper' command for talon voice
+rokubop/talon-hub-roku	0	A collection of my Talon repos for UI, mouse control, input mapping, parrot, and gaming you may find useful.
+rokubop/talon-input-map	0	Combos, modes, throttling, debounce and conditions for Talon input sources.
+rokubop/talon-mouse-rig	0	All purpose mouse rig for Talon with movement and scrolling. Prefers OS-specific relative movement to be compatible with games.
+rokubop/talon-pack	0	Catalogs your Talon repo's contributions and dependencies, generates version validation, and updates your README with badges.
+rokubop/talon-parrot-tester	11	Visualization tool to help you analyze your parrot integration with Talon
+rokubop/talon-stable-input	0	Bind keys or pedals to Talon actions that won't be interrupted by voice commands. Uses pynput.
+rokubop/talon-ui-elements	14	An experimental library for building stateful voice activated canvas UIs using a HTML/CSS/React-inspired syntax for python, for use with Talon.
+splondike/talon_mystuff	3	My person Talon customisations
+splondike/talon_telector	10	Text selection overlay for Talon
+splondike/talon_ui_helper	48	Talon package aimed at making it easier to build new mouse controlling voice commands
+talonhub/community	824	Voice command set for Talon, community-supported.
+tbaecker/talon_personal	0	My configuration for Talon Voice
+voqal/voqal	190	Voice native AI agent for the builders of tomorrow 
+wolfmanstout/talon-gaze-ocr	71	Talon scripts to enable advanced cursor control using eye tracking and OCR.

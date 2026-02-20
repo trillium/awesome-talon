@@ -1,0 +1,77 @@
+name: Crawl Talon Commands
+
+on:
+  schedule:
+    - cron: "0 8 * * 3" # Wednesday 8am UTC
+  workflow_dispatch:
+    inputs:
+      full_crawl:
+        description: "Force full recrawl of all repos"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore crawl cache
+        uses: actions/cache@v4
+        with:
+          path: scripts/.cache
+          key: talon-crawl-cache-${{ github.run_id }}
+          restore-keys: talon-crawl-cache-
+
+      - name: Copy repos data
+        run: |
+          cp -f .playground/repos_full.json scripts/.cache/repos_full_ci.json 2>/dev/null || true
+
+      - name: Run command pipeline
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ARGS="--repos-file .playground/repos_full.json --verbose"
+          if [ "${{ github.event.inputs.full_crawl }}" = "true" ]; then
+            ARGS="$ARGS --full"
+          fi
+          python3 scripts/build_commands_index.py $ARGS
+
+      - name: Validate output JSON
+        run: |
+          python3 -c "
+          import json, sys
+          for f in ['website/data/commands-stats.json', 'website/public/data/commands-summary.json']:
+              try:
+                  data = json.load(open(f))
+                  print(f'{f}: OK ({len(str(data))} chars)')
+              except Exception as e:
+                  print(f'{f}: FAILED - {e}', file=sys.stderr)
+                  sys.exit(1)
+          "
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet website/data/commands-stats.json website/public/data/; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated commands
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add website/data/commands-stats.json website/public/data/
+          git commit -m "Update command index [automated]"
+          git push
