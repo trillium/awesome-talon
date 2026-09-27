@@ -6,13 +6,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/acamadeo/personal-talon",
-    "pushed_at": "2025-12-09T19:48:43Z",
-    "updated_at": "2025-12-09T19:48:47Z",
+    "pushed_at": "2026-08-11T17:03:41Z",
+    "updated_at": "2026-08-11T17:04:47Z",
     "created_at": "2025-10-01T16:15:59Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "adabru/eyeput",
@@ -29,7 +29,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "adabru/speech",
@@ -44,7 +44,7 @@
     "default_branch": "main",
     "license": "WTFPL",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "adam-coster/adam-coster-talon",
@@ -61,7 +61,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "AdamKJor/LaTeX-talon",
@@ -76,7 +76,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "adamsan/adamsan_talon",
@@ -86,17 +86,17 @@
     "fork": false,
     "url": "https://github.com/adamsan/adamsan_talon",
     "pushed_at": "2022-07-01T20:36:43Z",
-    "updated_at": "2022-07-01T20:36:46Z",
+    "updated_at": "2026-04-17T19:03:02Z",
     "created_at": "2021-01-24T08:21:36Z",
     "default_branch": "master",
     "license": "",
     "topics": [
-      "talon",
       "voice-recognition",
       "accessibility",
-      "customization"
+      "customization",
+      "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "adw96/talon_user",
@@ -111,7 +111,7 @@
     "default_branch": "master",
     "license": "Unlicense",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "aidabeorn/thorerik-talon",
@@ -126,7 +126,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "alan-barzilay/barzi_talon",
@@ -141,24 +141,24 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "alexander-clarke/alex_talon",
-    "stars": 1,
+    "stars": 2,
     "description": "Personal scripts for talon",
     "archived": false,
     "fork": false,
     "url": "https://github.com/alexander-clarke/alex_talon",
-    "pushed_at": "2026-02-16T23:22:53Z",
-    "updated_at": "2026-02-16T23:22:56Z",
+    "pushed_at": "2026-09-01T22:08:13Z",
+    "updated_at": "2026-09-02T06:05:54Z",
     "created_at": "2022-07-29T00:32:47Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "alexbwade/talon-config",
@@ -173,7 +173,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "alexhumphreys/talon-files",
@@ -188,17 +188,17 @@
     "default_branch": "master",
     "license": "MPL-2.0",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "AndreasArvidsson/andreas-talon",
-    "stars": 90,
+    "stars": 92,
     "description": "User scripts for Talon Voice",
     "archived": false,
     "fork": false,
     "url": "https://github.com/AndreasArvidsson/andreas-talon",
-    "pushed_at": "2026-02-17T12:03:55Z",
-    "updated_at": "2026-02-17T12:03:59Z",
+    "pushed_at": "2026-09-26T15:09:08Z",
+    "updated_at": "2026-09-26T15:09:11Z",
     "created_at": "2021-06-17T10:41:57Z",
     "default_branch": "main",
     "license": "MIT",
@@ -208,7 +208,7 @@
       "voice-coding",
       "voice-control"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "AndreasArvidsson/andreas-talon-vscode",
@@ -217,8 +217,8 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/AndreasArvidsson/andreas-talon-vscode",
-    "pushed_at": "2026-02-17T11:51:44Z",
-    "updated_at": "2026-02-17T11:49:52Z",
+    "pushed_at": "2026-09-19T14:59:09Z",
+    "updated_at": "2026-09-19T14:56:55Z",
     "created_at": "2021-06-17T10:32:26Z",
     "default_branch": "main",
     "license": "MIT",
@@ -227,7 +227,7 @@
       "vscode",
       "vscode-extension"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "AndreasArvidsson/talon-deck",
@@ -244,7 +244,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "AndrewDant/andrew_talon",
@@ -262,41 +262,41 @@
       "talon",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "AndrewDant/screen-spots",
-    "stars": 26,
+    "stars": 28,
     "description": "Save a set of screen locations to later click on or move to using talon voice",
     "archived": false,
     "fork": false,
     "url": "https://github.com/AndrewDant/screen-spots",
     "pushed_at": "2023-11-06T21:37:33Z",
-    "updated_at": "2026-01-24T02:00:25Z",
+    "updated_at": "2026-08-28T05:04:25Z",
     "created_at": "2022-01-10T23:57:32Z",
     "default_branch": "main",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Antman261/talon-matrix-mouse",
-    "stars": 3,
+    "stars": 4,
     "description": "Click anywhere by speaking three words",
     "archived": false,
     "fork": false,
     "url": "https://github.com/Antman261/talon-matrix-mouse",
     "pushed_at": "2025-10-04T12:55:37Z",
-    "updated_at": "2025-10-04T12:55:40Z",
+    "updated_at": "2026-04-01T16:08:43Z",
     "created_at": "2025-09-15T01:49:00Z",
     "default_branch": "main",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "appman-org/talon-personal-config",
@@ -311,7 +311,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "asoee/custom-talon",
@@ -326,7 +326,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "auscompgeek/davo-talon",
@@ -343,7 +343,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "autosquash/talon-configs",
@@ -360,7 +360,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "baltazarortiz/talon_public",
@@ -375,7 +375,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "baltazarortiz/talon_user",
@@ -390,7 +390,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "barajasss/talon-scripts",
@@ -399,13 +399,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/barajasss/talon-scripts",
-    "pushed_at": "2025-07-11T07:14:50Z",
-    "updated_at": "2025-07-11T07:14:53Z",
+    "pushed_at": "2026-09-04T07:40:18Z",
+    "updated_at": "2026-09-04T07:40:37Z",
     "created_at": "2025-07-11T06:57:48Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "bentitmus/config",
@@ -414,13 +414,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/bentitmus/config",
-    "pushed_at": "2024-12-13T22:45:07Z",
-    "updated_at": "2024-12-13T22:45:12Z",
+    "pushed_at": "2026-09-17T14:54:44Z",
+    "updated_at": "2026-09-17T14:54:49Z",
     "created_at": "2016-09-28T08:52:04Z",
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Bietola/manjaro-config",
@@ -429,13 +429,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/Bietola/manjaro-config",
-    "pushed_at": "2024-08-01T10:06:53Z",
-    "updated_at": "2024-08-01T10:06:58Z",
+    "pushed_at": "2026-06-02T21:44:57Z",
+    "updated_at": "2026-06-02T21:45:03Z",
     "created_at": "2021-01-22T15:40:22Z",
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Bietola/talon-config",
@@ -450,22 +450,22 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "blakewatson/talon-scripts",
-    "stars": 9,
+    "stars": 10,
     "description": "My user scripts for Talon (https://talonvoice.com/).",
     "archived": false,
     "fork": false,
     "url": "https://github.com/blakewatson/talon-scripts",
-    "pushed_at": "2026-02-17T02:10:31Z",
-    "updated_at": "2026-02-17T02:10:35Z",
+    "pushed_at": "2026-09-24T02:43:15Z",
+    "updated_at": "2026-09-24T02:43:19Z",
     "created_at": "2019-01-30T03:46:37Z",
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "BlueDrink9/bluedrink9-talon",
@@ -474,15 +474,15 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/BlueDrink9/bluedrink9-talon",
-    "pushed_at": "2026-01-18T21:47:23Z",
-    "updated_at": "2026-01-18T21:47:27Z",
+    "pushed_at": "2026-07-28T20:54:29Z",
+    "updated_at": "2026-07-28T20:55:03Z",
     "created_at": "2024-12-21T22:58:36Z",
     "default_branch": "main",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "BlueDrink9/bspwm-talon",
@@ -499,7 +499,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "BlueDrink9/homophoner-talon",
@@ -516,7 +516,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "bluprince13/bluprince13_talon",
@@ -533,7 +533,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "bluprince13/bluprince13_talon_user",
@@ -550,7 +550,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "BoltonBailey/bolton-talon",
@@ -565,7 +565,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "brianwatsonxyz/talonscripts",
@@ -580,7 +580,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "BrokenFlows/brokenflows_talon",
@@ -595,7 +595,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "brollin/brollin_talon_public",
@@ -604,15 +604,15 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/brollin/brollin_talon_public",
-    "pushed_at": "2024-12-11T23:55:09Z",
-    "updated_at": "2024-12-11T23:55:13Z",
+    "pushed_at": "2026-07-15T22:35:36Z",
+    "updated_at": "2026-07-15T22:35:41Z",
     "created_at": "2022-07-17T01:03:33Z",
     "default_branch": "master",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "brollin/doordash-scraper",
@@ -627,7 +627,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "brollin/speak-the-spire-talon",
@@ -646,24 +646,24 @@
       "slaythespire-mod",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "brollin/talon_umbrella",
-    "stars": 2,
+    "stars": 3,
     "description": "Umbrella repo containing all of my Talon Voice code",
     "archived": false,
     "fork": false,
     "url": "https://github.com/brollin/talon_umbrella",
-    "pushed_at": "2024-12-11T23:57:06Z",
-    "updated_at": "2024-12-11T23:57:10Z",
+    "pushed_at": "2026-03-02T23:44:53Z",
+    "updated_at": "2026-08-28T05:26:08Z",
     "created_at": "2022-02-03T02:16:32Z",
     "default_branch": "main",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "bubuto355/talon_user",
@@ -678,7 +678,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "budavariam/dotfiles",
@@ -687,8 +687,8 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/budavariam/dotfiles",
-    "pushed_at": "2026-02-05T20:50:18Z",
-    "updated_at": "2026-01-02T20:57:26Z",
+    "pushed_at": "2026-07-30T07:34:47Z",
+    "updated_at": "2026-07-30T07:37:54Z",
     "created_at": "2018-02-12T21:20:48Z",
     "default_branch": "master",
     "license": "MIT",
@@ -702,7 +702,7 @@
       "macos",
       "zsh"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "byoungbnice/talon",
@@ -717,7 +717,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "calvang/talon-public-scripts",
@@ -732,7 +732,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "cattleomart/PersonalTalon",
@@ -747,7 +747,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "cerealXDD/talon-community",
@@ -756,58 +756,64 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/cerealXDD/talon-community",
-    "pushed_at": "2025-11-21T06:17:19Z",
-    "updated_at": "2025-11-09T17:19:17Z",
+    "pushed_at": "2026-09-24T14:51:07Z",
+    "updated_at": "2026-09-24T14:51:12Z",
     "created_at": "2025-02-17T23:35:34Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "chaosparrot/marithime_talon",
-    "stars": 10,
+    "stars": 12,
     "description": "Marithime is a Talon Voice command set meant to keep you in the flow while dictating and creating text.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/chaosparrot/marithime_talon",
     "pushed_at": "2025-10-19T16:20:29Z",
-    "updated_at": "2026-02-12T03:50:58Z",
+    "updated_at": "2026-09-19T16:06:23Z",
     "created_at": "2024-11-24T10:35:21Z",
     "default_branch": "main",
     "license": "MIT",
-    "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "topics": [
+      "talonvoice"
+    ],
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "chaosparrot/pandemonium_talon",
-    "stars": 8,
+    "stars": 9,
     "description": "My personal parrot / talon integration scripts. Subject to change as well as questionable code quality",
     "archived": false,
     "fork": false,
     "url": "https://github.com/chaosparrot/pandemonium_talon",
     "pushed_at": "2021-09-21T17:58:29Z",
-    "updated_at": "2024-11-14T17:32:29Z",
+    "updated_at": "2026-04-05T16:24:37Z",
     "created_at": "2021-06-25T11:50:18Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "chaosparrot/talon_hud",
-    "stars": 83,
+    "stars": 89,
     "description": "Unofficial Talon Head Up Display scripts",
     "archived": false,
     "fork": false,
     "url": "https://github.com/chaosparrot/talon_hud",
-    "pushed_at": "2025-07-30T17:55:06Z",
-    "updated_at": "2026-02-17T01:50:15Z",
+    "pushed_at": "2026-09-19T06:52:23Z",
+    "updated_at": "2026-09-25T07:37:09Z",
     "created_at": "2021-04-19T16:59:39Z",
     "default_branch": "master",
     "license": "",
-    "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "topics": [
+      "talonvoice",
+      "ui",
+      "insight"
+    ],
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "charlie-gallagher/cg_talon",
@@ -822,7 +828,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "chromalchemy/talon",
@@ -831,13 +837,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/chromalchemy/talon",
-    "pushed_at": "2026-02-09T20:07:31Z",
-    "updated_at": "2026-02-09T20:07:35Z",
+    "pushed_at": "2026-09-23T17:19:07Z",
+    "updated_at": "2026-09-23T17:19:14Z",
     "created_at": "2024-04-17T18:24:42Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "chromalchemy/talon-community",
@@ -846,13 +852,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/chromalchemy/talon-community",
-    "pushed_at": "2026-02-09T20:06:18Z",
+    "pushed_at": "2026-09-23T17:19:25Z",
     "updated_at": "2024-04-17T23:07:07Z",
     "created_at": "2024-04-17T18:35:00Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "C-Loftus/colton_talon",
@@ -871,17 +877,17 @@
       "talonvoice",
       "knausj"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "C-Loftus/sight-free-talon",
-    "stars": 21,
+    "stars": 26,
     "description": "Integrate Talon voice dictation commands with TTS, screen readers, braille, and more!",
     "archived": false,
     "fork": false,
     "url": "https://github.com/C-Loftus/sight-free-talon",
-    "pushed_at": "2026-01-19T16:32:26Z",
-    "updated_at": "2025-09-28T05:15:03Z",
+    "pushed_at": "2026-08-31T16:34:28Z",
+    "updated_at": "2026-09-08T21:33:08Z",
     "created_at": "2023-11-19T00:30:16Z",
     "default_branch": "main",
     "license": "GPL-3.0",
@@ -897,17 +903,17 @@
       "blind",
       "dictation"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "C-Loftus/talon-ai-tools",
-    "stars": 85,
+    "stars": 91,
     "description": "Query LLMs and AI tools with voice commands",
     "archived": false,
     "fork": false,
     "url": "https://github.com/C-Loftus/talon-ai-tools",
-    "pushed_at": "2026-01-21T01:29:20Z",
-    "updated_at": "2026-02-16T02:37:18Z",
+    "pushed_at": "2026-08-31T16:34:13Z",
+    "updated_at": "2026-09-26T01:13:43Z",
     "created_at": "2023-12-14T16:46:43Z",
     "default_branch": "main",
     "license": "MIT",
@@ -920,7 +926,7 @@
       "ai",
       "chatgpt"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "C-Loftus/Watercolor",
@@ -943,7 +949,7 @@
       "linux",
       "talon"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "codecat555/talon-window-tweak",
@@ -958,7 +964,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "CodesAway/TAIPCodesAway",
@@ -975,7 +981,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "CodesAway/TalonVoiceCodesAway",
@@ -984,15 +990,15 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/CodesAway/TalonVoiceCodesAway",
-    "pushed_at": "2025-12-17T14:57:13Z",
-    "updated_at": "2025-12-17T14:57:16Z",
+    "pushed_at": "2026-09-15T16:03:41Z",
+    "updated_at": "2026-09-15T16:03:45Z",
     "created_at": "2024-04-12T19:12:56Z",
     "default_branch": "main",
     "license": "BSD-3-Clause",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "crschnick/talon_java",
@@ -1007,7 +1013,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "crschnick/talon_user",
@@ -1022,7 +1028,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "csommerl/personal-talon",
@@ -1037,17 +1043,17 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "cursorless-dev/cursorless",
-    "stars": 1295,
+    "stars": 1335,
     "description": "Don't let the cursor slow you down",
     "archived": false,
     "fork": false,
     "url": "https://github.com/cursorless-dev/cursorless",
-    "pushed_at": "2026-02-17T16:53:41Z",
-    "updated_at": "2026-02-17T15:59:13Z",
+    "pushed_at": "2026-09-25T21:44:21Z",
+    "updated_at": "2026-09-26T20:54:02Z",
     "created_at": "2021-02-18T15:59:12Z",
     "default_branch": "main",
     "license": "MIT",
@@ -1059,7 +1065,7 @@
       "voice-coding",
       "structure-editor"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "DanGau/TalonBase",
@@ -1074,7 +1080,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "DarinM223/talon_mgba_http_controller",
@@ -1093,7 +1099,7 @@
       "mgba",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Darksonn/talon-config",
@@ -1108,7 +1114,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "daveweij/fine_mouse_grid_talon",
@@ -1123,7 +1129,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "daveyarwood/talon-customizations",
@@ -1138,7 +1144,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "David-Kingman/dk_talon",
@@ -1153,22 +1159,22 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "david-tejada/rango-talon",
-    "stars": 47,
+    "stars": 52,
     "description": "Talon user file set for the Rango browser extension",
     "archived": false,
     "fork": false,
     "url": "https://github.com/david-tejada/rango-talon",
-    "pushed_at": "2025-10-28T11:08:41Z",
-    "updated_at": "2026-01-04T03:35:35Z",
+    "pushed_at": "2026-06-17T08:19:54Z",
+    "updated_at": "2026-08-28T15:35:29Z",
     "created_at": "2022-03-30T10:50:51Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "david-tejada/talon_personal",
@@ -1177,13 +1183,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/david-tejada/talon_personal",
-    "pushed_at": "2025-02-06T09:19:31Z",
-    "updated_at": "2025-02-06T09:19:35Z",
+    "pushed_at": "2026-09-24T09:31:17Z",
+    "updated_at": "2026-09-24T09:31:21Z",
     "created_at": "2024-10-27T11:17:19Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "diabeatz96/Talon-Game-Scripts",
@@ -1204,7 +1210,7 @@
       "talon",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "dlip/nixconfig",
@@ -1214,12 +1220,12 @@
     "fork": false,
     "url": "https://github.com/dlip/nixconfig",
     "pushed_at": "2024-09-27T04:21:02Z",
-    "updated_at": "2025-06-03T23:36:25Z",
+    "updated_at": "2026-07-16T18:50:08Z",
     "created_at": "2021-04-28T00:28:30Z",
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "downscore/eam-talon",
@@ -1234,7 +1240,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "eemmtt/eemmtt-talon",
@@ -1249,7 +1255,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "eemmtt/piemenu",
@@ -1264,7 +1270,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Eggy115/Talon",
@@ -1279,7 +1285,7 @@
     "default_branch": "main",
     "license": "GPL-3.0",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "emmaling27/talon-config",
@@ -1294,7 +1300,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "eprev/eprev_talon",
@@ -1303,13 +1309,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/eprev/eprev_talon",
-    "pushed_at": "2025-07-07T18:21:45Z",
-    "updated_at": "2025-07-07T18:21:49Z",
+    "pushed_at": "2026-03-19T08:17:36Z",
+    "updated_at": "2026-03-19T08:17:41Z",
     "created_at": "2022-01-10T20:19:42Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "erhoppe/savant_pedal",
@@ -1324,7 +1330,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "estebanfelipep/estebanfelipep-talon",
@@ -1339,7 +1345,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "fidgetingbits/talon-vim",
@@ -1356,39 +1362,39 @@
     "topics": [
       "voicecoding"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/BAR",
-    "stars": 3,
+    "stars": 4,
     "description": "The Basic Action Recorder can be used to record basic talon voice actions and output the corresponding talonscript code for them.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/FireChickenProductivity/BAR",
     "pushed_at": "2025-07-30T19:26:27Z",
-    "updated_at": "2025-07-30T19:26:10Z",
+    "updated_at": "2026-04-01T16:10:27Z",
     "created_at": "2023-01-22T21:07:36Z",
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/CorrectionChicken",
-    "stars": 0,
+    "stars": 1,
     "description": "Simple commands for correcting speech recognition errors including dealing with homophones, common misrecognition patterns, and being able to spell out a correction once so that it pops up in a menu you can pick from when the same misrecognition happens again.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/FireChickenProductivity/CorrectionChicken",
     "pushed_at": "2025-12-27T23:14:38Z",
-    "updated_at": "2025-12-24T02:44:58Z",
+    "updated_at": "2026-07-29T16:28:42Z",
     "created_at": "2025-01-03T21:31:13Z",
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/DiagramsDotNetTalonVoiceCommands",
@@ -1403,7 +1409,7 @@
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/FireChickenKnausjEssentials",
@@ -1420,7 +1426,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/GoogleSheetsTalonCommands",
@@ -1437,7 +1443,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/MermaidDiagramsTalonVoice",
@@ -1454,24 +1460,24 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/MouseControlChicken",
-    "stars": 2,
+    "stars": 4,
     "description": "Offers talon voice customization for controlling the mouse.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/FireChickenProductivity/MouseControlChicken",
-    "pushed_at": "2026-02-16T23:06:21Z",
-    "updated_at": "2026-02-16T23:06:29Z",
+    "pushed_at": "2026-09-10T01:49:40Z",
+    "updated_at": "2026-09-06T16:05:03Z",
     "created_at": "2023-10-13T02:48:03Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/Mouse-Control-Chicken-Data",
@@ -1480,13 +1486,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/FireChickenProductivity/Mouse-Control-Chicken-Data",
-    "pushed_at": "2024-12-31T03:20:36Z",
-    "updated_at": "2024-12-31T03:20:40Z",
+    "pushed_at": "2026-05-19T22:01:55Z",
+    "updated_at": "2026-05-19T22:02:01Z",
     "created_at": "2024-08-31T21:39:00Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/PersonalCommunityFork",
@@ -1501,7 +1507,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/PersonalTalonVoiceCodingSetup",
@@ -1510,13 +1516,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/FireChickenProductivity/PersonalTalonVoiceCodingSetup",
-    "pushed_at": "2026-02-16T02:18:35Z",
-    "updated_at": "2026-02-16T02:18:38Z",
+    "pushed_at": "2026-08-21T01:01:28Z",
+    "updated_at": "2026-08-21T01:02:08Z",
     "created_at": "2022-07-26T17:20:39Z",
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/RandomTalon",
@@ -1533,7 +1539,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/TalonHardSleep",
@@ -1550,7 +1556,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/TalonVoiceCodingSupplement",
@@ -1565,7 +1571,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/TalonVoiceDesmosCommands",
@@ -1580,7 +1586,7 @@
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/TalonVoiceDiagramDrawing",
@@ -1595,7 +1601,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/TalonVoiceDictationSetup",
@@ -1610,24 +1616,24 @@
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/Talon-Voice-EquatIO-Commands",
-    "stars": 0,
+    "stars": 1,
     "description": "Talon voice commands for dictating math into EquatIO.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/FireChickenProductivity/Talon-Voice-EquatIO-Commands",
     "pushed_at": "2025-01-02T03:25:21Z",
-    "updated_at": "2025-01-02T03:25:21Z",
+    "updated_at": "2026-06-20T23:31:33Z",
     "created_at": "2022-07-07T19:17:41Z",
     "default_branch": "main",
     "license": "Unlicense",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "FireChickenProductivity/Talon-Voice-Exam-Mode",
@@ -2443,17 +2449,17 @@
   {
     "name": "LucyJillMurray/lucy_talon",
     "stars": 0,
-    "description": "",
+    "description": "My config for talon for Windows and Linux. Very much a work in progress.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/LucyJillMurray/lucy_talon",
-    "pushed_at": "2025-11-26T08:48:42Z",
-    "updated_at": "2025-11-26T08:48:46Z",
+    "pushed_at": "2026-09-11T11:18:24Z",
+    "updated_at": "2026-09-11T11:18:30Z",
     "created_at": "2024-05-29T12:24:27Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "luketych/talon-luke",
@@ -2468,7 +2474,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "lunixbochs/talon_wm",
@@ -2485,7 +2491,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "ma-anwar/mathfly",
@@ -2500,7 +2506,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "ma-anwar/TalonExams",
@@ -2515,7 +2521,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Macpaper/pandemoniumIdk",
@@ -2530,7 +2536,7 @@
     "default_branch": "master",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Macpaper/talonReal",
@@ -2545,7 +2551,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Macpaper/talonWorkPls",
@@ -2560,7 +2566,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mahanthesh0r/Empathy-ad-insights",
@@ -2575,7 +2581,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mankoff/talon",
@@ -2590,7 +2596,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/Alphabet",
@@ -2600,24 +2606,24 @@
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/Alphabet",
     "pushed_at": "2025-12-19T15:13:34Z",
-    "updated_at": "2025-12-19T15:16:09Z",
+    "updated_at": "2026-09-02T06:05:35Z",
     "created_at": "2023-12-25T09:05:03Z",
     "default_branch": "master",
     "license": "MIT",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/NaturalCommands",
-    "stars": 0,
+    "stars": 2,
     "description": "NaturalCommands is a Windows desktop application that enables users to control their computer and applications using natural language commands. It interprets spoken or typed instructions to automate tasks, launch programs, manipulate windows, and perform complex multi-step actions, enhancing productivity and accessibility through voice",
     "archived": false,
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/NaturalCommands",
-    "pushed_at": "2026-02-16T20:44:44Z",
-    "updated_at": "2026-02-16T20:44:47Z",
+    "pushed_at": "2026-06-16T08:07:36Z",
+    "updated_at": "2026-06-16T08:07:40Z",
     "created_at": "2025-12-16T13:08:46Z",
     "default_branch": "main",
     "license": "MIT",
@@ -2625,7 +2631,7 @@
       "dotnet",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/natural-language-commands",
@@ -2642,7 +2648,7 @@
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/QuickPrompts",
@@ -2660,7 +2666,7 @@
       "ai",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/selectionssaver",
@@ -2669,8 +2675,8 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/selectionssaver",
-    "pushed_at": "2025-12-11T14:03:28Z",
-    "updated_at": "2025-12-11T14:03:32Z",
+    "pushed_at": "2026-03-22T14:06:47Z",
+    "updated_at": "2026-03-22T14:06:52Z",
     "created_at": "2025-06-03T18:16:50Z",
     "default_branch": "master",
     "license": "MIT",
@@ -2678,7 +2684,7 @@
       "talonvoice",
       "voice-control"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/snippetbrowser",
@@ -2688,26 +2694,27 @@
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/snippetbrowser",
     "pushed_at": "2025-06-23T16:44:59Z",
-    "updated_at": "2025-12-07T13:41:50Z",
+    "updated_at": "2026-05-11T07:06:54Z",
     "created_at": "2025-06-23T15:08:31Z",
     "default_branch": "master",
     "license": "MIT",
     "topics": [
       "talonvoice",
       "voice-commands",
-      "voice-control"
+      "voice-control",
+      "vscode-extension"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/TalonCommandSearchExtension",
-    "stars": 0,
+    "stars": 2,
     "description": "VS Code extension for searching and browsing Talon voice commands with advanced filtering and JSON file storage",
     "archived": false,
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/TalonCommandSearchExtension",
-    "pushed_at": "2025-11-04T16:52:44Z",
-    "updated_at": "2025-12-07T13:36:04Z",
+    "pushed_at": "2026-03-22T08:46:17Z",
+    "updated_at": "2026-08-31T20:26:47Z",
     "created_at": "2025-10-30T12:53:50Z",
     "default_branch": "master",
     "license": "MIT",
@@ -2716,9 +2723,10 @@
       "talonvoice",
       "voice-commands",
       "voice-control",
-      "voice-recognition"
+      "voice-recognition",
+      "vscode-extension"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/talon_my_stuff",
@@ -2727,7 +2735,7 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/talon_my_stuff",
-    "pushed_at": "2026-02-17T15:44:13Z",
+    "pushed_at": "2026-09-25T14:06:09Z",
     "updated_at": "2025-12-07T13:38:32Z",
     "created_at": "2023-11-03T12:54:21Z",
     "default_branch": "main",
@@ -2738,17 +2746,17 @@
       "voice-control",
       "voice-recognition"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mark-Phillipson/VoiceLauncherBlazor",
-    "stars": 3,
+    "stars": 4,
     "description": "Blazor server side app with app launcher, snippets and Voice Admin for speech recognition with Talon Voice",
     "archived": false,
     "fork": false,
     "url": "https://github.com/Mark-Phillipson/VoiceLauncherBlazor",
-    "pushed_at": "2026-01-31T09:13:18Z",
-    "updated_at": "2026-01-31T09:13:23Z",
+    "pushed_at": "2026-09-23T16:38:37Z",
+    "updated_at": "2026-09-23T16:38:40Z",
     "created_at": "2020-03-28T08:58:21Z",
     "default_branch": "main",
     "license": "MIT",
@@ -2759,7 +2767,7 @@
       "blazor-components",
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "marocato-official/talonvoice-quill",
@@ -2774,7 +2782,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Mcfeenix/Talon_Excel_customizations",
@@ -2784,12 +2792,12 @@
     "fork": false,
     "url": "https://github.com/Mcfeenix/Talon_Excel_customizations",
     "pushed_at": "2025-12-11T16:37:14Z",
-    "updated_at": "2025-12-11T16:37:18Z",
+    "updated_at": "2026-03-21T19:04:05Z",
     "created_at": "2025-12-09T15:23:30Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "merplumander/personal_talon",
@@ -2804,7 +2812,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "Metastruct/talon_gmod",
@@ -2828,22 +2836,22 @@
       "talonvoice",
       "voice-recognition"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "MichaelOmegatron/Omega_Mouse",
-    "stars": 7,
+    "stars": 9,
     "description": "An alternative way to interact with Control Mouse in Talon Voice. Meant to be used with the Talon Voice Community Repo (previously known as knausj_talon).",
     "archived": false,
     "fork": false,
     "url": "https://github.com/MichaelOmegatron/Omega_Mouse",
     "pushed_at": "2023-10-16T02:22:20Z",
-    "updated_at": "2024-06-27T07:56:20Z",
+    "updated_at": "2026-08-28T04:41:09Z",
     "created_at": "2023-07-05T00:55:59Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mikeshansen/talon_voice_commands",
@@ -2858,7 +2866,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mirober/mathfly-talon",
@@ -2877,7 +2885,7 @@
       "math",
       "maths"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mirober/MR-talon",
@@ -2886,15 +2894,15 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/mirober/MR-talon",
-    "pushed_at": "2026-01-16T16:52:49Z",
-    "updated_at": "2026-01-16T16:52:53Z",
+    "pushed_at": "2026-07-15T19:17:19Z",
+    "updated_at": "2026-07-15T19:17:23Z",
     "created_at": "2019-12-27T17:36:36Z",
     "default_branch": "master",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mirober/talon-pyvda",
@@ -2913,7 +2921,7 @@
       "windows",
       "automation"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mirrorkeydev/mkd-talon",
@@ -2928,7 +2936,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "MooersLab/talon-contractions",
@@ -2943,7 +2951,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "MooersLab/talon-iterm2",
@@ -2958,7 +2966,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "MooersLab/talon-webpages",
@@ -2973,7 +2981,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mpinkert/talon-files",
@@ -2988,22 +2996,22 @@
     "default_branch": "local-google-fork",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "mqnc/talon_german",
-    "stars": 10,
+    "stars": 11,
     "description": "German Dictation Mode for Talon Voice",
     "archived": false,
     "fork": false,
     "url": "https://github.com/mqnc/talon_german",
     "pushed_at": "2025-09-29T09:41:07Z",
-    "updated_at": "2025-09-29T09:41:11Z",
+    "updated_at": "2026-09-26T17:28:41Z",
     "created_at": "2020-12-08T21:26:33Z",
     "default_branch": "master",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "myersm0/talon-personal",
@@ -3012,13 +3020,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/myersm0/talon-personal",
-    "pushed_at": "2026-02-06T19:23:50Z",
-    "updated_at": "2026-02-06T19:23:54Z",
+    "pushed_at": "2026-09-08T13:17:30Z",
+    "updated_at": "2026-09-08T13:20:13Z",
     "created_at": "2024-08-02T19:17:49Z",
     "default_branch": "master",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "nathanielks/old-talon-config",
@@ -3033,7 +3041,7 @@
     "default_branch": "main",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "nathaniel-robertson/nat-talon-configs",
@@ -3048,7 +3056,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "ntietz/talon-custom",
@@ -3063,7 +3071,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "nwu124/talon",
@@ -3072,13 +3080,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/nwu124/talon",
-    "pushed_at": "2025-12-30T04:39:42Z",
-    "updated_at": "2025-12-30T04:39:46Z",
+    "pushed_at": "2026-06-29T22:46:40Z",
+    "updated_at": "2026-06-29T22:46:45Z",
     "created_at": "2020-08-03T03:10:50Z",
     "default_branch": "master",
     "license": "MIT",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "ohare93/zsa-keymapp-talon",
@@ -3104,7 +3112,7 @@
       "voyager",
       "zsa"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "oogen925/Powerpoint-Commands",
@@ -3119,7 +3127,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "orlekc/my-talon",
@@ -3134,24 +3142,24 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "orlekc/talon-games",
-    "stars": 0,
+    "stars": 1,
     "description": "Talon Games is a simple script library that makes playing games using talon easier.",
     "archived": false,
     "fork": false,
     "url": "https://github.com/orlekc/talon-games",
     "pushed_at": "2026-01-22T19:45:52Z",
-    "updated_at": "2026-01-22T19:45:56Z",
+    "updated_at": "2026-03-29T11:19:54Z",
     "created_at": "2025-12-25T18:23:37Z",
     "default_branch": "main",
     "license": "",
     "topics": [
       "talonvoice"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "paj80paj/MyTalonConfig",
@@ -3160,13 +3168,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/paj80paj/MyTalonConfig",
-    "pushed_at": "2024-11-09T16:14:23Z",
-    "updated_at": "2024-11-09T16:14:26Z",
+    "pushed_at": "2026-06-24T14:28:31Z",
+    "updated_at": "2026-06-24T14:29:25Z",
     "created_at": "2022-05-21T14:44:44Z",
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "pakeke-constructor/TALON_CUSTOM_PLUGINS",
@@ -3181,7 +3189,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "parthraut/talon_cpp",
@@ -3196,7 +3204,7 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "paul-schaaf/talon-filetree",
@@ -3206,30 +3214,30 @@
     "fork": false,
     "url": "https://github.com/paul-schaaf/talon-filetree",
     "pushed_at": "2024-02-13T13:57:58Z",
-    "updated_at": "2025-11-17T11:31:21Z",
+    "updated_at": "2026-04-24T22:39:02Z",
     "created_at": "2023-04-14T10:53:16Z",
     "default_branch": "main",
     "license": "MIT",
     "topics": [
       "talonvoice",
-      "vscode"
+      "vscode-extension"
     ],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "paul-schaaf/talon-filetree-commands",
-    "stars": 8,
+    "stars": 10,
     "description": "",
     "archived": false,
     "fork": false,
     "url": "https://github.com/paul-schaaf/talon-filetree-commands",
     "pushed_at": "2024-02-13T13:48:56Z",
-    "updated_at": "2025-11-17T11:31:22Z",
+    "updated_at": "2026-07-27T15:37:13Z",
     "created_at": "2023-05-15T17:26:33Z",
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "paul-schaaf/vshell-commands",
@@ -3244,7 +3252,7 @@
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "peterjpierce/talon-customizations",
@@ -3253,13 +3261,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/peterjpierce/talon-customizations",
-    "pushed_at": "2025-10-25T17:31:09Z",
-    "updated_at": "2025-10-25T17:31:12Z",
+    "pushed_at": "2026-06-29T15:51:55Z",
+    "updated_at": "2026-06-29T15:52:00Z",
     "created_at": "2023-04-25T13:58:31Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "PetrKryslUCSD/knausj_talon_pk",
@@ -4898,13 +4906,13 @@
     "archived": false,
     "fork": false,
     "url": "https://github.com/ZachWatkins/user-talon",
-    "pushed_at": "2025-01-28T17:03:31Z",
-    "updated_at": "2025-01-28T17:03:35Z",
+    "pushed_at": "2026-09-23T19:09:14Z",
+    "updated_at": "2026-09-23T19:09:18Z",
     "created_at": "2024-03-14T21:03:09Z",
     "default_branch": "main",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   },
   {
     "name": "ziemus/talon_voice_games",
@@ -4919,6 +4927,6 @@
     "default_branch": "master",
     "license": "",
     "topics": [],
-    "last_fetched": "2026-02-17T18:21:01.679293+00:00"
+    "last_fetched": "2026-09-27T04:07:33.808588+00:00"
   }
 ]
